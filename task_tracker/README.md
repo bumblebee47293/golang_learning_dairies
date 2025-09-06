@@ -1,7 +1,3 @@
-Here’s a polished **README** template for the **Task Tracker CLI** project, based on the roadmap.sh description you shared. You can easily copy, customize it for your preferred language (e.g., Python, JavaScript), and include the original project link as requested:
-
----
-
 # Task Tracker CLI
 
 Build a simple command-line interface (CLI) app to **track your tasks** and manage your to-do list. Perfect for honing your programming skills in **filesystem operations**, **user input handling**, and **CLI development**.
